@@ -14,3 +14,9 @@ roadmap.sh is a resource to help guide the developers in picking up the path and
 # Classic:
 https://stackoverflow.com/ - to get and give help
 https://www.codewars.com/ - for practicing
+
+# for practining in typing:
+https://blindtyping.com/test
+
+___
+list will go on
