@@ -1,22 +1,11 @@
-# Resources
-1) https://www.learncpp.com/
-This is the most useful resource. Even if you are not a c++ developer, you should read it
-because it has the base, fundamentals of programming and OOP. Even if you are codding on high-level language, you still should learn how low level works. That is what i think
-2) https://javascript.info/
-As I am a javascript node.js developer, this is the best resource about javascript.
-3) https://www.patterns.dev/posts/classic-design-patterns/
-design patterns is the only way to write clean code. 
-It has every design pattern that exists.
-4) https://roadmap.sh/
-roadmap.sh is a resource to help guide the developers in picking up the path and guide their learnings.
-
-
-# Classic:
-https://stackoverflow.com/ - to get and give help
-https://www.codewars.com/ - for practicing
-
-# for practining in typing:
-https://blindtyping.com/test
-
-___
-list will go on
+| Useful resources 	| [Roadmap.sh](http://roadmap.sh/)<br>[Patterns](https://www.patterns.dev/posts/classic-design-patterns/)<br>[javascript](https://javascript.info)<br>[C++](https://learncpp.com/)<br>[MD table generator](https://tablesgenerator.com/markdown_tables#)<br>[MD editor](https://stackedit.io/app#)<br>[StackOverFlow](https://stackoverflow.com/)<br>[CodeWars](https://www.codewars.com/)<br>[blindtyping](https://blindtyping.com/test) 	|
+|---	|---	|
+| Theory 	| [learncpp.com](http://learncpp.com/)  <br>[javascript.info](http://javascript.info/)  <br>[HTTP Protocol](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)<br>[DNS](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/) 	|
+| Base 	| [HTML](https://www.w3schools.com/hTml/default.asp)<br>[CSS](https://www.w3schools.com/css/default.asp)<br>[javascript](https://javascript.info) 	|
+| Code writing helper 	| [TypeScript](https://www.typescriptlang.org/) 	|
+| interfaces and bundlers 	| [Sass](https://sass-lang.com/)<br>[React](https://reactjs.org/)<br>[Vue](https://vuejs.org/)<br>[Angular](https://angular.io/)<br>[Solid.js](https://www.solidjs.com/) 	|
+| Databases 	| [Redis](https://redis.io/)<br>[PostgreSQL](https://www.postgresql.org/)<br>[MongoDB](https://www.mongodb.com/)<br>[Casandra](https://cassandra.apache.org/_/index.html) 	|
+| Test automation 	| [snyk](https://snyk.io/)<br>[Jest](https://jestjs.io/) 	|
+| Project management 	| Github and Git 	|
+| Connections 	| REST API 	|
+| Crossplatform frameworks 	| [Docker](https://www.docker.com/) 	|
