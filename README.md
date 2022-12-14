@@ -9,3 +9,4 @@
 | Test automation | [snyk](https://snyk.io/)<br>[Jest](https://jestjs.io/) |
 | Project management | Github and Git |
 | Connections | REST API |
+| node.js standart api | [child_process](https://nodejs.org/api/child_process.html)<br>|
