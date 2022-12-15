@@ -1,9 +1,10 @@
-| Base | [HTML](https://www.w3schools.com/hTml/default.asp)<br>[CSS](https://www.w3schools.com/css/default.asp)<br>[javascript](https://javascript.info) |
+| description | list |
 |---|---|
+| Base | [HTML](https://www.w3schools.com/hTml/default.asp)<br>[CSS](https://www.w3schools.com/css/default.asp)<br>[javascript](https://javascript.info) |
 | Theory | [learncpp.com](http://learncpp.com/)  <br>[javascript.info](http://javascript.info/)  <br>[HTTP Protocol](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)<br>[DNS](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/) |
 | learning | [Roadmap.sh](http://roadmap.sh/)<br>[Patterns](https://www.patterns.dev/posts/classic-design-patterns/)<br>[javascript](https://javascript.info)<br>[C++](https://learncpp.com/)<br>[StackOverFlow](https://stackoverflow.com/) |
 | practicing | [CodeWars](https://www.codewars.com/)<br>[AdventOfCode](https://adventofcode.com/2022/about) |
-| interfaces/libraries/bundlers/frameworks | [Sass](https://sass-lang.com/)<br>[React](https://reactjs.org/)<br>[Vue](https://vuejs.org/)<br>[Angular](https://angular.io/)<br>[Solid.js](https://www.solidjs.com/)<br><br>[sequelize](https://www.npmjs.com/package/sequelize)<br>[Docker](https://www.docker.com/)<br><br>[child_process](https://nodejs.org/api/child_process.html) |
+| interfaces/libraries/bundlers/frameworks | [Sass](https://sass-lang.com/)<br>[React](https://reactjs.org/)<br>[Vue](https://vuejs.org/)<br>[Angular](https://angular.io/)<br>[Solid.js](https://www.solidjs.com/)<br>[sequelize](https://www.npmjs.com/package/sequelize)<br>[Docker](https://www.docker.com/)<br>[child_process](https://nodejs.org/api/child_process.html)<br>[inquirer](https://www.npmjs.com/package/inquirer) |
 | Databases | [Redis](https://redis.io/)<br>[PostgreSQL](https://www.postgresql.org/)<br>[MongoDB](https://www.mongodb.com/)<br>[Casandra](https://cassandra.apache.org/_/index.html) |
 | Test automation | [snyk](https://snyk.io/)<br>[Jest](https://jestjs.io/) |
 | Helpers | [TypeScript](https://www.typescriptlang.org/)<br>[nodemon](https://www.npmjs.com/package/nodemon) |
